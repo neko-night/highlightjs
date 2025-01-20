@@ -1,0 +1,70 @@
+/* Nekonight Theme v0.0.2
+ *
+ * https://github.com/neko-night/highlightjs
+ *
+ * Copyright 2025, All rights reserved
+ *
+ * Code licensed under the GPL-V3 license
+ *
+ * @author Bruno Ciccarino <brunociccarinoo@gmail.com>
+ */
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #262835;
+}
+
+.hljs-comment,
+.hljs-quote,
+.hljs-deletion {
+  color: #546E7A;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-literal,
+.hljs-doctag,
+.hljs-name {
+  color: #C3E88D;
+  font-weight: bold;
+}
+
+.hljs-function,
+.hljs-built_in,
+.hljs-title,
+.hljs-section {
+  color: #C792EA;
+}
+
+.hljs-operator {
+  color: #f65866;
+}
+
+.hljs-variable,
+.hljs-string,
+.hljs-meta,
+.hljs-type,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition,
+.hljs-template-tag,
+.hljs-template-variable {
+  color: #C3E88D;
+}
+
+.hljs,
+.hljs-subst {
+  color: #ffffff;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+
+
